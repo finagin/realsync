@@ -7,6 +7,6 @@ composer global require finagin/realsync
 or
 
 ```bash
-curl -sSl https://finagin.github.io/realsync | sh
+curl -sSL https://finagin.github.io/realsync | sh
 ```
 
